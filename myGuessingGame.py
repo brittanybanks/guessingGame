@@ -1,7 +1,5 @@
 import random
 
-
-
 number = random.randint(1, 10)
 player_name = input("Hello, What's your last name?")
 number_of_guesses = 0
