@@ -1,12 +1,10 @@
 # The Guessing Game 
-![](/pythonHomework/images/gamePicture.png)
 
 ## Game Description 
 #### The Guessing Game is an interactive game in created with `python` programming language 
 ---
 ## User Story
-    As a user I want to play a guessing game created by python
-    so that I can play a guessing game for fun. 
+    As a user I want to play a guessing game created by python so that I can play a guessing game for fun. 
 
 ## Acceptance Criteria 
 **_Given_** that the user guesses a number starts the guessing game with a random number
@@ -52,6 +50,7 @@
 ### Bonus
 * Deploy the guessing game in python version 2.7 & 3.8.4
 
-## ❤ **_Happy Coding_** ❤
-![](/pythonHomework/images/TechBridgeLogo.png)
+![](videos/pythonGuess.gif)
+
+
 
